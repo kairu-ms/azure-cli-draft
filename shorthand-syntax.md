@@ -1,7 +1,7 @@
 ## Design
 
-- "=" key-value separator need to be used with the " " separator, " " separator is supported in first level
-- ":" key-value separator need to be used with the "," separator, "," separator is supported in sub levels
+- Use "=" and " " separators in first level
+- Use ":" and "," separators in sub levels
 - Support "append" action for array argument
 - Support to unfold multi layers of object as first level
 
