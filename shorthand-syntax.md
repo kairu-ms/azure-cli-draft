@@ -43,9 +43,6 @@
 --object-param name=device-1 year=2020 properties={serial:abc,count:3}
 ```
 
-```bash
---object-param name:device-1,year:2020,properties:{serial:abc,count:3}
-```
 
 ## Argument Pattern: Single Object Array
 
