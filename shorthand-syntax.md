@@ -29,10 +29,6 @@
 --list-param A B C
 ```
 
-```bash
---list-param A,B,C
-```
-
 ## Argument Pattern: Object
 
 ```json
